@@ -43,6 +43,6 @@ Steps Followed
 - How KNN works in classification.
 - Importance of feature scaling.
 - Visualizing performance for different values of K.
-- Understanding decision boundaries.
+
 
 
