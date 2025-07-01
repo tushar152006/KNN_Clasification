@@ -22,7 +22,7 @@ Target: Classifying the flower species (Setosa, Versicolour, Virginica)
 Steps Followed
 1. Load the dataset using `load_iris()` from `sklearn.datasets`.
 2. Convert to DataFrame for easier analysis using `pandas`.
-3. *Preprocess the data:
+3. Preprocess the data:
    - Checked for null values.
    - Scaled the features using `StandardScaler` for better distance computation.
 4. Train-test split*:
